@@ -13,12 +13,11 @@
 
 ## 🛠 Tech Stack
 
-| Category | Technologies |
+| | |
 |----------|--------------|
 | **Programming Languages** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![Assembly](https://img.shields.io/badge/Assembly-8E0E87?style=for-the-badge&logo=assemblyscript&logoColor=white) |
-| **Python Libraries** | NumPy, Matplotlib, SciPy, Pandas, PyTorch, Scikit-learn |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) |
-| **Tools & Technologies** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+| **Python Libraries** | NumPy, Matplotlib, SciPy, Pandas, PyTorch, Scikit-learn, etc. |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
 | **Languages** | English (fluent), Russian (native), Tatar (native), German (basic), Chinese (basic) |
 | **Academic Background** | Linear Algebra, Calculus, Algorithms and Data Structures, Machine Learning, Probability Theory and Mathematical Statistics, Physics, Ordinary Differential Equations, Numerical Methods, Functional Analysis, etc. |
 
@@ -27,27 +26,13 @@
 ## 📂 My Projects
 
 ### 🤖 [Telegram Math Problem Generator Bot](https://github.com/ninjasha/telegram-bot-math-problem-generator)
-AI-powered math problem generator for school students with adaptive difficulty levels.
-
-**Features:**
-- 🧮 Generates math problems of varying complexity
-- 📊 Tracks student progress and statistics
-- 🎯 Adaptive learning based on performance
-- 💬 Interactive Telegram interface
-
-**Technologies:** `Python` `python-telegram-bot` `OpenAI API` `SQLite`
+AI-powered math problem generator Kaiser for school students with user-friendly settings and interactive visualization of complex expressions with Telegram Web Apps.
 
 ### 💼 Work Projects
-*[Add your work projects here as you create repositories for them]*
+*Telegram bot Kaiser*
 
 ### 🎓 Academic Projects  
-*[Add your university projects here as you create repositories for them]*
-
----
-
-## 📚 Academic Background
-
-**Mathematics & Physics:** Linear Algebra, Calculus, Algorithms and Data Structures, Machine Learning, Probability Theory and Mathematical Statistics, Ordinary Differential Equations, Numerical Methods, Functional Analysis
+*Telegram bot Kaiser*
 
 ---
 
