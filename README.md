@@ -9,7 +9,7 @@
 *   🎓 **Studying:** Moscow State University named after M. V. Lomonosov, Faculty of Computational Mathematics and Cybernetics
 *   💻 **Interested in:** Back End, Data Science, Machine Learning, Deep Learning, Physics, Math
 *   📫 **How to reach me:** email: davletovshamil@yandex.ru, telegram: @ninjasha
-*   📄 **My resume:** [Add resume link]
+*   📄 **My resume:** [read](https://github.com/ninjasha/resume/blob/main/Resume.pdf)
 
 ## 🛠 Tech Stack
 
@@ -30,6 +30,7 @@ AI-powered math problem generator Kaiser for school students with user-friendly 
 
 ### [A modular C implementation of numerical algorithms for solving equations and computing definite integrals](https://github.com/ninjasha/numerical-methods-toolkit)
 
+### [Heat equation implementation](https://github.com/ninjasha/heat-equation-implementation)
 ---
 
 ## 📫 Connect with me
