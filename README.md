@@ -25,14 +25,10 @@
 
 ## 📂 My Projects
 
-### 🤖 [Telegram Math Problem Generator Bot](https://github.com/ninjasha/telegram-bot-math-problem-generator)
+### [Telegram Math Problem Generator Bot](https://github.com/ninjasha/telegram-bot-math-problem-generator)
 AI-powered math problem generator Kaiser for school students with user-friendly settings and interactive visualization of complex expressions with Telegram Web Apps.
 
-### 💼 Work Projects
-*Telegram bot Kaiser*
-
-### 🎓 Academic Projects  
-*Telegram bot Kaiser*
+### [A modular C implementation of numerical algorithms for solving equations and computing definite integrals](https://github.com/ninjasha/numerical-methods-toolkit)
 
 ---
 
