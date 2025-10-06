@@ -28,11 +28,11 @@
 ### [Telegram Math Problem Generator Bot](https://github.com/ninjasha/telegram-bot-math-problem-generator)
 AI-powered math problem generator Kaiser for school students with user-friendly settings and interactive visualization of complex expressions with Telegram Web Apps.
 
+## [A modular C implementation of numerical algorithms for solving equations and computing definite integrals](https://github.com/ninjasha/numerical-methods-toolkit)
+
 ## [Parallel matrix multiplication using OpenMP and data analysis](https://github.com/ninjasha/openmp-parallel-matrix-multiplication)
 
-### [A modular C implementation of numerical algorithms for solving equations and computing definite integrals](https://github.com/ninjasha/numerical-methods-toolkit)
-
-### [Heat equation implementation](https://github.com/ninjasha/heat-equation-implementation)
+## [Heat equation implementation](https://github.com/ninjasha/heat-equation-implementation)
 ---
 
 ## 📫 Connect with me
