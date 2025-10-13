@@ -8,7 +8,7 @@
 
 *   🎓 **Studying:** Moscow State University named after M. V. Lomonosov, Faculty of Computational Mathematics and Cybernetics
 *   💻 **Interested in:** Back End, Data Science, Machine Learning, Deep Learning, Physics, Math
-*   📫 **How to reach me:** email: davletovshamil@yandex.ru, telegram: @ninjasha
+*   📫 **How to reach me:** email: davletovshamil@yandex.ru, telegram: [@ninjasha](https://t.me/ninjasha)
 *   📄 **My resume:** [read](https://github.com/ninjasha/resume/blob/main/Resume.pdf)
 
 ## 🛠 Tech Stack
